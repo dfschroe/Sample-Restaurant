@@ -1,0 +1,85 @@
+@font-face{
+	font-family: 'Permanent Marker', cursive;
+}
+.brand{
+    		font-family: 'Permanent Marker', cursive;
+    		color:#E81810;
+    	}
+    	.nav-item{
+    		margin-right:10px;
+    	}
+    	.nav-link{
+    		color:grey;
+    	}
+    	.navbar-custom{
+    		background-color:black;
+    		border-color:black;
+    	}
+    	.active{
+    		color:white;
+    	}
+    	.nav-link:hover{
+    		color:#E81810;
+    	}
+    	.jumbotron h1{
+    		font-family:'Permanent Marker', cursive;
+    		text-align:center;
+    		color:#E81810;
+    	}
+    	.jumbotron p{
+    		font-family:'Permanent Marker', cursive;
+    		text-align:center;
+    		color:#E81810;
+    	}
+    	.jumbotron{
+    		background-image:url("restaurant.jpg");
+    		background-position: center;
+			background-repeat: no-repeat;
+			background-size: cover;
+    	}
+    	.col-md-7 h2{
+    		text-align:center;
+    	}
+    	.col-md-5 img{
+    		width:100%;
+    	}
+    	#copyright {
+    		font-size:15px;
+    	}
+    	@media(min-width:992px){
+    		.col-md-7 h2{
+    			padding-top:50px;
+    			text-align:left;
+    		}
+    		.col-md-7 p{
+    			padding-top:25px;
+    		}
+    	}
+    	.team-jumbotron h1{
+    		font-family:'Permanent Marker', cursive;
+    		text-align:center;
+    		color:#E81810;
+    	}
+    	.team-jumbotron p{
+    		font-family:'Permanent Marker', cursive;
+    		text-align:center;
+    		color:#E81810;
+    	}
+    	.team-jumbotron{
+    		background-image:url("restaurant.jpg");
+    		background-position: center;
+			background-repeat: no-repeat;
+			background-size: cover;
+    	}
+    	.container-fluid{
+    		max-width:1100px;
+    	}
+    	.col-md-4 h2{
+    		font-family:'Permanent Marker', cursive;
+    	}
+    	.col-md-4 img{
+    		width:60%;
+    	}
+    	.col-md-4 button{
+    		margin-bottom:50px;
+    	}
